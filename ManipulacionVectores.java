@@ -4,7 +4,7 @@ public class ManipulacionVectores {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] vector = new int[15];
-
+        // Commit 2: Búsqueda y máximos/mínimos
         // ==========================================
         // 1. Crear y llenar el vector (10 a 100)
         // ==========================================
