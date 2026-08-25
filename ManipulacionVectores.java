@@ -26,7 +26,7 @@ public class ManipulacionVectores {
             System.out.print(vector[i] + " ");
         }
         System.out.println();
-
+        
         // ==========================================
         // 2. Buscar un valor en el vector
         // ==========================================
@@ -82,7 +82,7 @@ public class ManipulacionVectores {
             System.out.println("No hay múltiplos de " + x + " en el vector.");
         }
         System.out.println();
-
+        // --- 4. Múltiplos de X ---
         // ==========================================
         // 5. Calcular la Suma
         // ==========================================
